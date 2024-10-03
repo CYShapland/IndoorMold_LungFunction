@@ -1,4 +1,4 @@
-*** edited by Chin Yang Shapland on 19/12/2023, changing only mould_5y1m_cat as Khan email (23/11/2023)
+*** edited by Chin Yang Shapland on 19/12/2023
 
 ***Generate a copy of categorical mould variables for splitting
 gen mould_5y1m_binary = k5112_cleaned
