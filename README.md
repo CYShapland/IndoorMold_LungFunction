@@ -1,6 +1,6 @@
 # IndoorMold_LungFunction
 
-Stata code for manuscript "Early-life exposure to indoor mould and associations with lung function, lung function trajectories and asthma" by Dr Joshua Khana, Dr Chin Yang Shaplandab, Prof James Doddc, Dr Raquel Granell.
+Stata code for manuscript "Early-life exposure to indoor mould and associations with lung function, lung function trajectories and asthma" by Dr Joshua Khana, Dr Chin Yang Shapland, Prof James Doddc, Dr Raquel Granell.
 
 1.  Clean and create mould variables with **clean_mould_variables_do_v1.do**
 
